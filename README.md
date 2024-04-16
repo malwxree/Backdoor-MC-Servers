@@ -14,4 +14,6 @@ Learn how to backdoor servers in Minecraft.
 8. You can find ANY server host to backdoor but minefort is the easiest
 9. Once plugin is installed fully on the server use ./login or >
 10. AND MAKE SURE TO GO TO [https://ectasy.wtf/dashboard/settings](https://ectasy.wtf/dashboard/settings) AND SET YOUR MINECRAFT USERNAME
+
+11. OR PURCHASE OPERATOR ON SERVERS FROM [HERE](https://backdoor.sell.app/product/purchase-op?store=backdoor&quantity=1)
 </p>
