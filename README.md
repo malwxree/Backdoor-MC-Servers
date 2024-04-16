@@ -16,4 +16,6 @@ Learn how to backdoor servers in Minecraft.
 10. AND MAKE SURE TO GO TO [https://ectasy.wtf/dashboard/settings](https://ectasy.wtf/dashboard/settings) AND SET YOUR MINECRAFT USERNAME
 
 11. OR PURCHASE OPERATOR ON SERVERS FROM [HERE](https://backdoor.sell.app/product/purchase-op?store=backdoor&quantity=1)
+
+12. BUNCH OF PLUGINS TO BACKDOOR SOON!
 </p>
