@@ -4,8 +4,8 @@ Learn how to backdoor servers in Minecraft.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malwxree&label=Profile%20views&color=0e75b6&style=flat" alt="malwxree" /> </p>
 
-1. Go to [https://https://ectasy.wtf/](https://ectasy.wtf/)
-2. Signup and go to [https://https://nullforums.net/](https://nullforums.net/resources/categories/minecraft-plugins.38/)
+1. Go to [https://ectasy.wtf/](https://ectasy.wtf/)
+2. Signup and go to https://nullforums.net/](https://nullforums.net/resources/categories/minecraft-plugins.38/)
 3. Find a random plugin and download it
 4. Then inject the plugin through the inject button on ectasy
 5. Then easiest target are Minefort servers
