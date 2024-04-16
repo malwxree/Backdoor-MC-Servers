@@ -1,6 +1,6 @@
 # Backdoor-MC-Servers
 Learn how to backdoor servers in Minecraft.
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">💳Cool way to make money and grief🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malwxree&label=Profile%20views&color=0e75b6&style=flat" alt="malwxree" /> </p>
 
